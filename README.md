@@ -91,7 +91,7 @@
 * 4.安装项目依赖
  &emsp;`yarn install`
 * 5.启动项目
- &emsp;`yarn start`
+ &emsp;&emsp;`yarn start`
 
 ### 部署
 * 打包项目：`yarn build`
