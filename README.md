@@ -22,9 +22,8 @@
 * 后端采用Spring Boot、Mybatis-Plus、Jwt
 * 权限认证使用Jwt安全可控
 * 支持Postgresql数据库
-* 前端地址:
-* 演示地址: http://118.190.151.85:59005/user/login（账号密码:admin/admin）
-* 操作手册：https://feixiangdexiaozhidan.github.io
+* 后端地址: https://github.com/feixiangdexiaozhidan/mytest
+
 
 ## 内置功能
 
