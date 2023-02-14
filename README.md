@@ -79,22 +79,26 @@
 ## 技术选型
 - 项目框架：Ant Design Pro基于React的实现版本
 - 技术栈：React + React-Hooks + TypeScript + Ant-Design
-## 开发环境
-1.git源码下载
- git clone git@github.com:feixiangdexiaozhidan/mytest-qianduan.git
-2.node环境安装(可以安装yarn方便快速下载依赖)
- node官网:https://nodejs.org/en/download/
- yarn安装(用npm安装): 
- 1、npm install -g yarn 
- 2、yarn --version      // 查看版本 
-3.安装项目依赖
- yarn install
-4.启动项目
- yarn start
-5.登录
-* 账号密码：admin/admin, js/js
 ## 本地部署
-* 打包项目：yarn build
+### 开发环境搭建
+* 1.git源码下载
+ <br />&emsp;`git clone git@github.com:feixiangdexiaozhidan/mytest-qianduan.git`
+* 2.node环境安装(可以安装yarn方便快速下载依赖)
+ <br />&emsp;node官网:https://nodejs.org/en/download/
+* 3.yarn安装(用npm安装): 
+ <br />&emsp;`npm install -g yarn` 
+ <br />&emsp;`yarn --version`      // 查看版本 
+* 4.安装项目依赖
+ <br />&emsp;`yarn install`
+* 5.启动项目
+ <br />&emsp;`yarn start`
+
+### 部署
+* 打包项目：`yarn build`
+### 访问
+* 部署启动后端项目，请参考后端相关文档，后端项目地址：https://github.com/feixiangdexiaozhidan/mytest
+* 登录地址: http://XXXX:XX/user/login
+* 账号密码：admin/admin, js/js
 ## 如何贡献
 
 * 提交一个问题或者功能, 请在提交前进行验证.
