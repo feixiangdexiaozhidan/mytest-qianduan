@@ -82,7 +82,7 @@
 ## 本地部署
 ### 开发环境搭建
 * 1.git源码下载
- <br />&emsp;`git clone git@github.com:feixiangdexiaozhidan/mytest-qianduan.git`
+ &emsp;`git clone git@github.com:feixiangdexiaozhidan/mytest-qianduan.git`
 * 2.node环境安装(可以安装yarn方便快速下载依赖)
  <br />&emsp;node官网:https://nodejs.org/en/download/
 * 3.yarn安装(用npm安装): 
@@ -91,7 +91,7 @@
 * 4.安装项目依赖
  &emsp;`yarn install`
 * 5.启动项目
- &emsp;&emsp;`yarn start`
+ &emsp;&emsp;&emsp;`yarn start`
 
 ### 部署
 * 打包项目：`yarn build`
