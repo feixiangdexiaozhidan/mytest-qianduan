@@ -89,9 +89,9 @@
  <br />&emsp;`npm install -g yarn` 
  <br />&emsp;`yarn --version`      // 查看版本 
 * 4.安装项目依赖
- <br />&emsp;`yarn install`
+ &emsp;`yarn install`
 * 5.启动项目
- <br />&emsp;`yarn start`
+ &emsp;`yarn start`
 
 ### 部署
 * 打包项目：`yarn build`
