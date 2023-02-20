@@ -50,15 +50,15 @@
 ```
 ─src
   │  └─pages
-  │      └─img							                图片静态资源
-  │      ├─home											主页
-  |		 ├─user											登录页
+  │      └─img						图片静态资源
+  │      ├─home						主页
+  |		 ├─user					登录页
   │      ├─feedback                                  	反馈
-  │      ├─sys                                  		管理页面展示
-  │      ├─course                                  		课程模板
-  │      ├─expert                                  		课程列表
+  │      ├─sys                                  	管理页面展示
+  │      ├─course                                  	课程模板
+  │      ├─expert                                  	课程列表
   │      ├─common-course                                 
-  │      │          └─chapter							教师端章节模块
+  │      │          └─chapter				教师端章节模块
   │      |          ├─task                              教师端作业模块
   │      |          ├─question                          教师端题库模块
   │      |          ├─scence                          	场景
@@ -66,13 +66,13 @@
   │      ├─publicLib                                    公共库
   │      ├─teacher                                    	教师模块
   │      ├─sclass                                    	班级模块 
-  │      ├─stu                                    		学生模块
+  │      ├─stu                                    	学生模块
   │      ├─center                                    	个人中心
   │      └─webapp                                       静态资源信息
-  │  ├─services											接口
-  │  ├─common										    定义实体对象
+  │  ├─services						接口
+  │  ├─common						定义实体对象
   │  ├─config				
-  │      └─routes							            路由
+  │      └─routes					路由
   
 ```
 ## 技术选型
