@@ -1,14 +1,11 @@
 <p align="center">
-	<img alt="logo" src="https://oscimg.oschina.net/oscnet/up-dd77653d7c9f197dd9d93684f3c8dcfbab6.png">
+	<img alt="logo" height="100" width="300" src="/image/logo-black.png">
 </p>
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">DBTP v2.0.0</h1>
+
 <h4 align="center">基于SpringBoot+React+Postgresql前后端分离的数据库实训平台</h4>
 <p align="center">
-	<a href="https://gitee.com/feixiangdexiaozhidan/mytest"><img src="https://img.shields.io/badge/dbtp-v2.0-brightgreen.svg"></a>
-	<a href="https://gitee.com/feixiangdexiaozhidan/mytest/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
-
-
-
+	<a href="https://github.com/Open-DBT/open-dbt-web"><img src="https://img.shields.io/badge/opendbt-v2.0.0-brightgreen.svg"></a>
+	<a href="https://github.com/Open-DBT/open-dbt-web/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
 </p>
 
 
@@ -22,7 +19,7 @@
 * 后端采用Spring Boot、Mybatis-Plus、Jwt
 * 权限认证使用Jwt安全可控
 * 支持Postgresql数据库
-* 后端地址: https://github.com/feixiangdexiaozhidan/mytest
+* 后端地址: https://github.com/Open-DBT/open-dbt
 
 
 ## 内置功能
@@ -43,7 +40,7 @@
 ## 在线体验
 
 * 演示地址：http://118.190.151.85:59005/user/login（账号密码:admin/admin）
-* 文档地址：https://feixiangdexiaozhidan.github.io
+* 文档地址：https://github.com/Open-DBT/open-dbt/wiki
 
 ## 项目结构
 
@@ -81,7 +78,7 @@
 ## 本地部署
 ### 开发环境搭建
 * 1.git源码下载
-<br />&emsp;`git clone git@github.com:feixiangdexiaozhidan/mytest-qianduan.git`
+<br />&emsp;`git clone git@github.com:Open-DBT/open-dbt-web.git`
 * 2.node环境安装(可以安装yarn方便快速下载依赖)
  <br />&emsp;node官网:https://nodejs.org/en/download/
 * 3.yarn安装(用npm安装): 
@@ -95,7 +92,7 @@
 ### 部署
 * 打包项目：`yarn build`
 ### 访问
-* 部署启动后端项目，请参考后端相关文档，后端项目地址：https://github.com/feixiangdexiaozhidan/mytest
+* 部署启动后端项目，请参考后端相关文档，后端项目地址：https://github.com/Open-DBT/open-dbt
 * 登录地址: http://XXXX:XX/user/login
 * 账号密码：admin/admin, js/js
 ## 如何贡献
